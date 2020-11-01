@@ -36,7 +36,7 @@
         else{
 
             $net_cost = $product_weight * $unit_cost;
-            echo $total_cost =  $net_cost + $shipping_cost ;
+            $total_cost =  $net_cost + $shipping_cost ;
 
         }
 
